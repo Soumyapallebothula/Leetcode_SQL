@@ -1,6 +1,6 @@
 # Leetcode_SQL
 
-* Provided Question name with Question No, Link, Solutions and explanation for each question.
+* Provided Question name with  Link, Solutions and explanation for each question.
 
 * https://leetcode.com/problemset/database/--> This is the Leetcode SQL Questions Link.
 
