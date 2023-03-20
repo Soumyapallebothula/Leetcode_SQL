@@ -34,7 +34,7 @@ Illusion : If we do the inner join it will retrive only the columns which are ma
 | Bob       | Alice    | New York City | New York |
 
 
-But when we do the left join we will get the details even address is not present.
+But when we do the left join we will get the details even if the address is not present for a personId , so our requirement suits.
 
 | firstname | lastname | city          | state    |
 | --------- | -------- | ------------- | -------- |
