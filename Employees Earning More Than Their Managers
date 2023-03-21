@@ -42,8 +42,8 @@ So to get the final output :
 Solution:
 select E2.name as Employee  from Employee E1 join Employee E2 on E1.id = E2.managerId and E1.salary < E2.salary
 
-Here E1 is employee table 
-     E2 is the manager table 
+Here E1 is manager table 
+     E2 is the employee table 
      
 Output:
 | Employee |
