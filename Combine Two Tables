@@ -60,3 +60,4 @@ Inner Join : The INNER JOIN keyword selects records that have matching values in
 
 Left Join  : The LEFT JOIN keyword returns all records from the left table (table1), and the matching records from the right table (table2). 
              The result is 0-null records from the right side, if there is no match.
+             
