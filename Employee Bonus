@@ -43,4 +43,3 @@ ON e.empId=b.empId
 WHERE IFNULL(bonus, 0)<1000
 
 
-
