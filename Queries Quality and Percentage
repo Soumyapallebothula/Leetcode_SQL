@@ -1,6 +1,7 @@
 QNS LINK : https://leetcode.com/problems/queries-quality-and-percentage/
 
-Theme : Write an SQL query to find each query_name, the quality and poor_query_percentage.
+Theme :
+Write an SQL query to find each query_name, the quality and poor_query_percentage.
 Both quality and poor_query_percentage should be rounded to 2 decimal places.
 Return the result table in any order.
 
