@@ -1,6 +1,6 @@
 Qns Link : https://leetcode.com/problems/big-countries/ 
 
-Theme :
+Theme:
 To write an SQL query to report the name, population, and area of the big countries.
 
 A country is big if:
