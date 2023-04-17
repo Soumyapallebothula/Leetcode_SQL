@@ -61,4 +61,3 @@ WHERE condition;
 
 T1 and T2 are different table aliases for the same table.
 
-
