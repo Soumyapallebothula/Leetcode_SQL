@@ -5,7 +5,6 @@ Theme : To write a SQL query to report the names of the customer that are not re
 And we can return the result table in any order.
 
 Example 1:
-
 Input: 
 Customer table:
 +----+------+------------+
