@@ -30,7 +30,7 @@ Solution :
 select * from Cinema where id%2=1 and description <> 'boring'
 order by rating desc
 
-Learning:
+Learning :
 
 About <> in SQL :
 Not Equal To (Transact SQL) - traditional
@@ -51,5 +51,6 @@ x % y
 
 x	- A value that will be divided by y
 y - The divisor
+
 
 
