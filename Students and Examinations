@@ -72,4 +72,4 @@ examinations e
 on e.student_id = st.student_id
 and e.subject_name = sb.subject_name
 group by st.student_id, sb.subject_name
-order by st.student_id
+order by st.student_id;
