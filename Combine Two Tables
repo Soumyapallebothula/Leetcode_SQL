@@ -55,6 +55,7 @@ Solution:
 select P.firstname,P.lastname,A.city,A.state from Person P left join Address A on P.personId = A.personId;
 
 Learning from the above problem :
+
 Inner Join : The INNER JOIN keyword selects records that have matching values in both tables.
 
 Left Join  : The LEFT JOIN keyword returns all records from the left table (table1), and the matching records from the right table (table2). 
