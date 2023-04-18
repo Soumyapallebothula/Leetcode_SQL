@@ -1,4 +1,3 @@
-QNS LINK : [Link Text](https://leetcode.com/problems/average-selling-price/)
 
 Theme :
 Write an SQL query to find the average selling price for each product. average_price should be rounded to 2 decimal places.
