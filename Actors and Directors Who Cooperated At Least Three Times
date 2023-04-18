@@ -69,5 +69,5 @@ select actor_id, director_id from:
 | 1           | 1                   
 +-------------+---------+
 
----END---
+
 
