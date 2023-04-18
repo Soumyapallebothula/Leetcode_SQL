@@ -1,4 +1,4 @@
-
+QNS LINK : (https://leetcode.com/problems/average-selling-price/)
 SELECT a.product_id,ROUND(SUM(b.units*a.price)/SUM(b.units),2) as average_price
 FROM Prices as a
 JOIN UnitsSold as b
