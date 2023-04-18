@@ -5,7 +5,6 @@ A single number is a number that appeared only once in the MyNumbers table.
 Write an SQL query to report the largest single number. If there is no single number, report null.
 The query result format is in the following example.
 
- 
 Example 1:
 
 Input: 
