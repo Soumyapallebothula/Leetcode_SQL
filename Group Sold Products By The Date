@@ -44,4 +44,3 @@ Explanation :
 The only serious challange of this problem is how to aggregate the product names in one cell. In MySql, this can be done using GROUP_CONCAT,
 in which you can also specify the sorting mechanism for the group concatenation (aggregation). The rest is simple.
 The MySQL GROUP_CONCAT() function is an aggregate function that concatenates strings from a group into a single string with various options.
-
