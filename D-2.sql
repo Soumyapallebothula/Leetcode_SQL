@@ -11,3 +11,4 @@ ROUND(AVG(total_amount)  OVER(ORDER BY visited_on ROWS BETWEEN 6 PRECEDING AND C
 
 Select * from cte2  where visited_on >=(select visited_on from cte order by visited_on limit 1)+6
 order by visited_on
+
