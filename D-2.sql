@@ -1,5 +1,5 @@
 -- Restaurant Growth 
--- [QNS LINK](https://leetcode.com/problems/restaurant-growth/)
+-- https://leetcode.com/problems/restaurant-growth/
 
 
 --CODE:
